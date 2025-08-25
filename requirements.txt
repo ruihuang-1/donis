@@ -1,0 +1,7 @@
+numpy
+torch>=2.0.1
+scipy
+DeepXDE==1.11.1
+pyinterp
+pyDOE
+tqdm
