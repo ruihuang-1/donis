@@ -1,6 +1,6 @@
 #  Importance Sampling for DeepONet
 
-This is the implementation of [DONIS: Importance Sampling for Training Physics-Informed DeepONet (https://www.ijcai.org/proceedings/2025/0603.pdf).  
+This is the implementation of [DONIS: Importance Sampling for Training Physics-Informed DeepONet](https://www.ijcai.org/proceedings/2025/0603.pdf).  
 
 ## Introduction
 In this work, we introduce a two-step importance sampling framework that sequentially 
